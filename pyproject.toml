@@ -1,0 +1,41 @@
+[project]
+name = "ror-reconcile"
+version = "0.1.0"
+description = "Match organisation names to ROR and link CORDIS participants to OpenAlex."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "fastapi>=0.124.0",
+    "httpx>=0.28.0",
+    "pydantic>=2.12.0",
+    "python-multipart>=0.0.20",
+    "rapidfuzz>=3.14.0",
+    "uvicorn[standard]>=0.38.0",
+]
+
+[dependency-groups]
+dev = [
+    "matplotlib==3.11.2",
+    "pytest>=9.0.0",
+    "pytest-cov>=7.0.0",
+    "ruff>=0.14.0",
+]
+
+[project.scripts]
+ror-ingest = "ror_reconcile.cli:ingest_main"
+ror-reconcile-cordis = "ror_reconcile.cli:reconcile_main"
+ror-enrich-openalex = "ror_reconcile.cli:enrich_openalex_main"
+ror-serve = "ror_reconcile.cli:serve_main"
+ror-eval = "ror_reconcile.cli:eval_main"
+
+[build-system]
+requires = ["uv_build>=0.9.0,<0.10.0"]
+build-backend = "uv_build"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

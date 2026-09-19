@@ -1,0 +1,8 @@
+{
+  "ec_contribution_works_pearson_r": -0.067751,
+  "interpretation_warning": "Descriptive association only; OpenAlex output and CORDIS participation are not evidence of a causal funding effect.",
+  "joined_organizations": 111,
+  "project_count_works_pearson_r": 0.173239,
+  "source_rows": 564,
+  "unmatched_source_rows": 287
+}

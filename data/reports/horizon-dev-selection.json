@@ -1,0 +1,290 @@
+{
+  "selected_at": "2026-07-18",
+  "scope": "frozen development split only",
+  "held_out_test_run": false,
+  "grid": {
+    "configurations": 28,
+    "lexical_gates": [
+      0.78,
+      0.8,
+      0.82,
+      0.84
+    ],
+    "auto_match_thresholds": [
+      0.82,
+      0.84,
+      0.86,
+      0.88,
+      0.9,
+      0.92,
+      0.94
+    ],
+    "fixed_min_margin": [
+      0.03
+    ]
+  },
+  "selected_configuration": {
+    "lexical_gate": 0.8,
+    "auto_match_threshold": 0.86,
+    "min_margin": 0.03,
+    "selection_rule": "Strictest lexical and final-score gates on the best precision-preserving answerable-coverage plateau.",
+    "equally_best_grid_configurations": 6
+  },
+  "development_metrics": {
+    "answerable_coverage": 0.8649,
+    "blocking_recall": 1.0,
+    "cases": 75,
+    "correct_abstentions": 38,
+    "coverage": 0.4267,
+    "end_to_end_recall": 0.8649,
+    "known_match_cases": 37,
+    "median_latency_ms": 70.213,
+    "no_match_specificity": 1.0,
+    "per_stratum": {
+      "acronym": {
+        "answerable_coverage": 0.0,
+        "blocking_recall": 0.0,
+        "cases": 1,
+        "correct_abstentions": 1,
+        "coverage": 0.0,
+        "end_to_end_recall": 0.0,
+        "known_match_cases": 0,
+        "no_match_specificity": 1.0,
+        "selective_precision": 0.0,
+        "top1_accuracy_known": 0.0
+      },
+      "multilingual": {
+        "answerable_coverage": 0.0,
+        "blocking_recall": 0.0,
+        "cases": 2,
+        "correct_abstentions": 2,
+        "coverage": 0.0,
+        "end_to_end_recall": 0.0,
+        "known_match_cases": 0,
+        "no_match_specificity": 1.0,
+        "selective_precision": 0.0,
+        "top1_accuracy_known": 0.0
+      },
+      "short_name": {
+        "answerable_coverage": 0.8,
+        "blocking_recall": 1.0,
+        "cases": 11,
+        "correct_abstentions": 6,
+        "coverage": 0.3636,
+        "end_to_end_recall": 0.8,
+        "known_match_cases": 5,
+        "no_match_specificity": 1.0,
+        "selective_precision": 1.0,
+        "top1_accuracy_known": 0.8
+      },
+      "standard": {
+        "answerable_coverage": 0.875,
+        "blocking_recall": 1.0,
+        "cases": 61,
+        "correct_abstentions": 29,
+        "coverage": 0.459,
+        "end_to_end_recall": 0.875,
+        "known_match_cases": 32,
+        "no_match_specificity": 1.0,
+        "selective_precision": 1.0,
+        "top1_accuracy_known": 0.9688
+      }
+    },
+    "selective_precision": 1.0,
+    "top1_accuracy_known": 0.9459
+  },
+  "confidence_intervals_95_percent": {
+    "answerable_coverage": {
+      "confidence": 0.95,
+      "lower": 0.7568,
+      "upper": 0.9697
+    },
+    "blocking_recall": {
+      "confidence": 0.95,
+      "lower": 1.0,
+      "upper": 1.0
+    },
+    "coverage": {
+      "confidence": 0.95,
+      "lower": 0.32,
+      "upper": 0.5333
+    },
+    "end_to_end_recall": {
+      "confidence": 0.95,
+      "lower": 0.7568,
+      "upper": 0.9697
+    },
+    "no_match_specificity": {
+      "confidence": 0.95,
+      "lower": 1.0,
+      "upper": 1.0
+    },
+    "selective_precision": {
+      "confidence": 0.95,
+      "lower": 1.0,
+      "upper": 1.0
+    },
+    "top1_accuracy_known": {
+      "confidence": 0.95,
+      "lower": 0.8649,
+      "upper": 1.0
+    }
+  },
+  "error_analysis": {
+    "counts": {
+      "accepted_wrong": 0,
+      "blocking_miss": 0,
+      "correct_abstention": 38,
+      "correct_answer": 32,
+      "ranking_error": 2,
+      "threshold_or_margin_abstention": 3
+    },
+    "unresolved_cases": [
+      {
+        "case_id": "case-8c62a839831a",
+        "query": "ADA UNIVERSITETI",
+        "country": "AZ",
+        "expected_ror_id": "https://ror.org/053ez2v94",
+        "category": "ranking_error",
+        "top_candidate_score": 0.8875,
+        "top_candidate_name_score": 0.9375,
+        "top_candidate_margin": 0.3174999999999999
+      },
+      {
+        "case_id": "case-5328b00e9a41",
+        "query": "AITIA INTERNATIONAL INFORMATIKAI ZARTKORUEN MUKODO RT",
+        "country": "HU",
+        "expected_ror_id": "https://ror.org/02fwr8382",
+        "category": "threshold_or_margin_abstention",
+        "top_candidate_score": 0.47,
+        "top_candidate_name_score": 0.4,
+        "top_candidate_margin": 0.27010328504955833
+      },
+      {
+        "case_id": "case-d90e36d1a6e5",
+        "query": "ACADEMIA DE STUDII ECONOMICE DIN MOLDOVA",
+        "country": "MD",
+        "expected_ror_id": "https://ror.org/04d26v797",
+        "category": "ranking_error",
+        "top_candidate_score": 0.607686549346645,
+        "top_candidate_name_score": 0.657686549346645,
+        "top_candidate_margin": 0.0432300410112183
+      },
+      {
+        "case_id": "case-ebef92006d1f",
+        "query": "AFRICAN CENTRE OF METEOROLOGICAL APPLICATION DEVELOPMENT",
+        "country": "NE",
+        "expected_ror_id": "https://ror.org/03777v328",
+        "category": "threshold_or_margin_abstention",
+        "top_candidate_score": 0.7716268144969598,
+        "top_candidate_name_score": 0.7016268144969597,
+        "top_candidate_margin": 0.3961141330318322
+      },
+      {
+        "case_id": "case-f5372a2be911",
+        "query": "INSTITUT ZA ONKOLOGIJU VOJVODINE-ONCOLOGY INSTITUTE OF VOJVODINA IOV",
+        "country": "RS",
+        "expected_ror_id": "https://ror.org/0194xa029",
+        "category": "threshold_or_margin_abstention",
+        "top_candidate_score": 0.7342857142857143,
+        "top_candidate_name_score": 0.7142857142857143,
+        "top_candidate_margin": 0.3309603407418733
+      }
+    ]
+  },
+  "success_criteria": {
+    "selective_precision_at_least_0.90": true,
+    "answerable_coverage_at_least_0.80": true,
+    "overall_coverage_at_least_0.70": false,
+    "overall_coverage_feasibility": {
+      "known_matches": 37,
+      "all_cases": 75,
+      "no_match_cases": 38,
+      "maximum_accepted_at_precision_0.90_even_if_all_known_matches_correct": 41,
+      "maximum_false_acceptances_at_precision_0.90": 4,
+      "maximum_overall_coverage_at_precision_0.90": 0.5467,
+      "conclusion": "The preregistered 0.70 overall-coverage and 0.90 precision targets cannot both hold on this 37-match/38-no-match development composition; answerable coverage is the interpretable coverage criterion."
+    }
+  },
+  "hosted_ror_baseline": {
+    "answerable_coverage": 1.0,
+    "cases": 75,
+    "correct_abstentions": 1,
+    "coverage": 0.9733,
+    "end_to_end_recall": 0.8378,
+    "known_match_cases": 37,
+    "lookup_errors": 1,
+    "no_match_specificity": 0.0263,
+    "selective_precision": 0.4247,
+    "top1_accuracy_known": 0.8378
+  },
+  "ablation_metrics": {
+    "coverage": {
+      "answerable_coverage": 0.7838,
+      "blocking_recall": 1.0,
+      "coverage": 0.3867,
+      "end_to_end_recall": 0.7027,
+      "no_match_specificity": 1.0,
+      "selective_precision": 0.8966,
+      "top1_accuracy_known": 0.8378
+    },
+    "full_with_trigram": {
+      "answerable_coverage": 0.8649,
+      "blocking_recall": 1.0,
+      "coverage": 0.4267,
+      "end_to_end_recall": 0.8649,
+      "no_match_specificity": 1.0,
+      "selective_precision": 1.0,
+      "top1_accuracy_known": 0.9459
+    },
+    "lexical": {
+      "answerable_coverage": 1.0,
+      "blocking_recall": 1.0,
+      "coverage": 0.7733,
+      "end_to_end_recall": 0.8108,
+      "no_match_specificity": 0.4474,
+      "selective_precision": 0.5172,
+      "top1_accuracy_known": 0.8108
+    },
+    "margin_and_guard": {
+      "answerable_coverage": 0.8649,
+      "blocking_recall": 1.0,
+      "coverage": 0.4267,
+      "end_to_end_recall": 0.8649,
+      "no_match_specificity": 1.0,
+      "selective_precision": 1.0,
+      "top1_accuracy_known": 0.973
+    },
+    "normalized_exact": {
+      "answerable_coverage": 0.6486,
+      "blocking_recall": 0.6216,
+      "coverage": 0.32,
+      "end_to_end_recall": 0.5676,
+      "no_match_specificity": 1.0,
+      "selective_precision": 0.875,
+      "top1_accuracy_known": 0.5676
+    },
+    "properties": {
+      "answerable_coverage": 0.8649,
+      "blocking_recall": 1.0,
+      "coverage": 0.4267,
+      "end_to_end_recall": 0.8649,
+      "no_match_specificity": 1.0,
+      "selective_precision": 1.0,
+      "top1_accuracy_known": 0.973
+    }
+  },
+  "sha256": {
+    "development_gold": "18c06199132cad7412fcc03861d8f81053e093122a161bfcd426a05de30b5c10",
+    "ror_database": "c74cf765e2468fe96266936907974825bddaa92e8b5c701a487c28e0ab364430",
+    "evaluation": "149811d9ef166c588caf12c3996646bbcad9b091d355023d04c3bb1852338021",
+    "evaluation_cases": "8e711dbff60aa9a2c11b0f4e2f59238ed9186c8114dc466a3568391ba51338ba",
+    "threshold_sweep": "92cb06e5a7539b9229426b767460f4373e1cf627ba3be510c3f1da023a3b2621",
+    "ablation": "9b2c658434c11729bcc00690de1c528073ab10b4ba34d95ac3518a92ab652897",
+    "hosted_baseline": "70220789ccf8ec78954cefafa814bc5f4a77c4b8d924bb47d6a29410d3da9b7e",
+    "hosted_baseline_cache": "67d28a9aafe9b161ba4acdb4c997c7cbb0c2835063ba3235e246b876948df23c",
+    "matcher_config_source": "b3cc412653b26d154cc97479c045cacf46deddbef379e626c92ab788a7e27d44",
+    "hosted_baseline_cache_snapshot": "67d28a9aafe9b161ba4acdb4c997c7cbb0c2835063ba3235e246b876948df23c"
+  },
+  "hosted_baseline_cache_snapshot": "data/processed/ror-api-baseline-cache-dev.json"
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "https://ror.org/02jx3x895",
+    "names": [
+      {"value": "University College London", "types": ["ror_display", "label"], "lang": "en"},
+      {"value": "UCL", "types": ["acronym"], "lang": null},
+      {"value": "London University", "types": ["alias"], "lang": "en"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "GB",
+          "country_name": "United Kingdom",
+          "name": "London"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.org/04cw6st05",
+    "names": [
+      {"value": "University of London", "types": ["ror_display", "label"], "lang": "en"},
+      {"value": "London University", "types": ["alias"], "lang": "en"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "GB",
+          "country_name": "United Kingdom",
+          "name": "London"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.org/00rcxh774",
+    "names": [
+      {"value": "University of Cologne", "types": ["ror_display", "label"], "lang": "en"},
+      {"value": "Universitat zu Koln", "types": ["alias"], "lang": "de"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "DE",
+          "country_name": "Germany",
+          "name": "Koln"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.org/01hhn8329",
+    "names": [
+      {"value": "Max Planck Society", "types": ["ror_display", "label"], "lang": "en"},
+      {
+        "value": "Max-Planck-Gesellschaft zur Forderung der Wissenschaften",
+        "types": ["alias"],
+        "lang": "de"
+      },
+      {"value": "MPG", "types": ["acronym"], "lang": null}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "DE",
+          "country_name": "Germany",
+          "name": "Munich"
+        }
+      }
+    ],
+    "types": ["Nonprofit"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.example/gb-advanced",
+    "names": [
+      {"value": "Institute for Advanced Studies", "types": ["ror_display", "label"], "lang": "en"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "GB",
+          "country_name": "United Kingdom",
+          "name": "London"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.example/us-advanced",
+    "names": [
+      {"value": "Institute for Advanced Studies", "types": ["ror_display", "label"], "lang": "en"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "US",
+          "country_name": "United States",
+          "name": "Princeton"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  },
+  {
+    "id": "https://ror.example/wye-college",
+    "names": [
+      {"value": "Wye College", "types": ["ror_display", "label"], "lang": "en"},
+      {"value": "The College of St Gregory and St Martin at Wye", "types": ["alias"], "lang": "en"}
+    ],
+    "locations": [
+      {
+        "geonames_details": {
+          "country_code": "GB",
+          "country_name": "United Kingdom",
+          "name": "Wye"
+        }
+      }
+    ],
+    "types": ["Education"],
+    "status": "active"
+  }
+]

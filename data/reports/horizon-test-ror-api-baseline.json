@@ -1,0 +1,766 @@
+{
+  "cases": [
+    {
+      "case_id": "case-8e434bdfefa1",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "EAP Sardenya",
+      "predicted_ror_id": "https://ror.org/05rsx7n75",
+      "query": "SERVEI ANDORR\u00c0 D'ATENCI\u00d3 SANIT\u00c0RIA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-64357354108a",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/001kv2y39",
+      "lookup_error": null,
+      "predicted_name": "Global ISP (Portugal)",
+      "predicted_ror_id": "https://ror.org/04w00jq52",
+      "query": "Technology Innovation Institute - Sole Proprietorship LLC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-de1e90daeda6",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Pfizer (United Kingdom)",
+      "predicted_ror_id": "https://ror.org/04x4v8p40",
+      "query": "LADAR LIMITED",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-20f403e9ab06",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/034s8ev31",
+      "lookup_error": null,
+      "predicted_name": "Instituto de Investigaciones en Ciencia y Tecnolog\u00eda de Materiales",
+      "predicted_ror_id": "https://ror.org/034s8ev31",
+      "query": "INSTITUTO DE INVESTIGACIONES EN CIENCIA Y TECNOLOGIA DE MATERIALES",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-eccb355dc9c8",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "FWF Austrian Science Fund",
+      "predicted_ror_id": "https://ror.org/013tf3c58",
+      "query": "OPEN KNOWLEDGE MAPS - VEREIN ZUR FORDERUNG DER SICHTBARKEIT WISSENSCHAFTLICHEN WISSENS",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-4ae2b8a871c3",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "University of Aruba",
+      "predicted_ror_id": "https://ror.org/05cdyhf91",
+      "query": "Stichting Monumentenfonds Aruba",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-08a516e61678",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/040cm8d21",
+      "lookup_error": null,
+      "predicted_name": "International University of Travnik",
+      "predicted_ror_id": "https://ror.org/03hw0dp08",
+      "query": "VISOKOSKOLSKA USTANOVA INTERNACIONALNI BURC UNIVERZITET-INTERNATIONAL BURCH UNIVERSITY",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-9d6e2cbff5f0",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/00sge8677",
+      "lookup_error": null,
+      "predicted_name": "BRAC University",
+      "predicted_ror_id": "https://ror.org/00sge8677",
+      "query": "BRAC UNIVERSITY",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-b4f90e172a0d",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Nautilus Ventures",
+      "predicted_ror_id": "https://ror.org/01s649n52",
+      "query": "ZAZ VENTURES",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-57d30c372109",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Universitas Azzahra",
+      "predicted_ror_id": "https://ror.org/04nn8h763",
+      "query": "COOPERATIE WOLFS COMPANY UA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-553d5c1f5ac5",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "P\u00ebr Mendje T\u00eb Sh\u00ebndosh\u00eb",
+      "predicted_ror_id": "https://ror.org/04554sv83",
+      "query": "HEALTHY REEFS FOR HEALTHY PEOPLE BELIZE LTD",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c40b15aa2d59",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/00w33ze35",
+      "lookup_error": null,
+      "predicted_name": "Registered Nurses' Association of Ontario",
+      "predicted_ror_id": "https://ror.org/00w33ze35",
+      "query": "Registered Nurses Association of Ontario",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-51c325fc6ceb",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "R\u00e9seau Africain pour le D\u00e9veloppement Int\u00e9gr\u00e9",
+      "predicted_ror_id": "https://ror.org/01q9g5r39",
+      "query": "ASSOCIATION PAYSANNE POUR LE DEVELOPPEMENT INTEGRE AU SUD-KIVU",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-a03570dd789b",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Institut Togolais de Recherche Agronomique",
+      "predicted_ror_id": "https://ror.org/02yd7p033",
+      "query": "INSTITUT CENTRAFRICAIN DE RECHERCHE AGRONOMIQUE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-08e426a463db",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/023f4f524",
+      "lookup_error": null,
+      "predicted_name": "Fondation Congolaise Pour La Recherche M\u00e9dicale",
+      "predicted_ror_id": "https://ror.org/023f4f524",
+      "query": "FONDATION CONGOLAISE POUR LA RECHERCHE MEDICALE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-faefe55dc328",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Stadt Mannheim",
+      "predicted_ror_id": "https://ror.org/03nt4av35",
+      "query": "Stadt Dietikon",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-3ea4c7b4bf79",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "African Forum for Agricultural Advisory Services",
+      "predicted_ror_id": "https://ror.org/014ty7t94",
+      "query": "CAMEROON FORUM FOR AGRICULTURAL ADVISORY SERVICES (CAMFAAS)",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-f136b29a1df3",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/01wck0s05",
+      "lookup_error": null,
+      "predicted_name": "Hangzhou City University",
+      "predicted_ror_id": "https://ror.org/01wck0s05",
+      "query": "Hangzhou City University",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-7cc14fade058",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/05dbsyw70",
+      "lookup_error": null,
+      "predicted_name": "Ministerio de Ciencia y Tecnolog\u00eda",
+      "predicted_ror_id": "https://ror.org/02vp8jr44",
+      "query": "Ministerio de Ciencia y Tecnologia de Costa Rica",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-6417e00055fa",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "University of Cape Verde",
+      "predicted_ror_id": "https://ror.org/001fphc23",
+      "query": "Universidade Lus\u00f3fona de Cabo Verde",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-fefb10505ea8",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/03zkxs276",
+      "lookup_error": null,
+      "predicted_name": "Czech Academy of Sciences, Centre of Administration and Operations",
+      "predicted_ror_id": "https://ror.org/03zkxs276",
+      "query": "STREDISKO SPOLECNYCH CINNOSTI AV CR v.v.i.",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c114ecf96cf4",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Association Nationale de la Recherche et de la Technologie",
+      "predicted_ror_id": "https://ror.org/00ht2ab73",
+      "query": "ASSOCIATION INSTITUT DE RECHERCHE INDEPENDANT DE LA CORNE D'AFRIQUE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-7c526c2b3ac7",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/05hc3k973",
+      "lookup_error": null,
+      "predicted_name": "Bolding & Bruggeman",
+      "predicted_ror_id": "https://ror.org/05hc3k973",
+      "query": "BOLDING & BRUGGEMAN APS",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-fc5e7d5707dd",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02m457w49",
+      "lookup_error": null,
+      "predicted_name": "Pontificia Universidad Cat\u00f3lica Madre y Maestra",
+      "predicted_ror_id": "https://ror.org/02m457w49",
+      "query": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-d9afbb5a1804",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02ck5yd04",
+      "lookup_error": null,
+      "predicted_name": "University of Ghardaia",
+      "predicted_ror_id": "https://ror.org/02ck5yd04",
+      "query": "UNIVERSITE DE GHARDAIA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-cb5daafce7ba",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/020az2v11",
+      "lookup_error": null,
+      "predicted_name": "North South Consultants Exchange (Egypt)",
+      "predicted_ror_id": "https://ror.org/020az2v11",
+      "query": "NORTH-SOUTH CONSULTANTS EXCHANGE LLC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-9e6628678946",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Kai Research (United States)",
+      "predicted_ror_id": "https://ror.org/015nmh932",
+      "query": "ENVECO ANONYMI ETAIRIA PROSTASIAS KAI DIAHIRISIS PERIVALLONTOS A.E.",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-b283c207a030",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/008stv805",
+      "lookup_error": null,
+      "predicted_name": "University of the South Pacific",
+      "predicted_ror_id": "https://ror.org/008stv805",
+      "query": "UNIVERSITY OF THE SOUTH PACIFIC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-4b63670ad48b",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": null,
+      "predicted_ror_id": null,
+      "query": "ARWIN",
+      "result_count": 0
+    },
+    {
+      "case_id": "case-a00f1305cb64",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Research Institute for Innovation and Technology",
+      "predicted_ror_id": "https://ror.org/005pzyb51",
+      "query": "GEORGIAN INSTITUTE FOR RESEARCH & INNOVATION",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c8a2a0c20cae",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/0342y5q78",
+      "lookup_error": null,
+      "predicted_name": "Gr\u00f8nlands Naturinstitut",
+      "predicted_ror_id": "https://ror.org/0342y5q78",
+      "query": "GRONLANDS NATURINSTITUT",
+      "result_count": 4
+    },
+    {
+      "case_id": "case-394a8d3283c0",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Sociedad Espa\u00f1ola de Endoscopia Digestiva",
+      "predicted_ror_id": "https://ror.org/01spyz863",
+      "query": "THE NATIONAL SEED SECRETARIAT",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-e169dc10a410",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Universidad San Pablo",
+      "predicted_ror_id": "https://ror.org/044evsy53",
+      "query": "UNIVERSIDAD SAN PABLO DE GUATEMALA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-4b1165e34236",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/00376bg92",
+      "lookup_error": null,
+      "predicted_name": "University of Guam",
+      "predicted_ror_id": "https://ror.org/00376bg92",
+      "query": "University of Guam",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-2b37522a2f41",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02zhqgq86",
+      "lookup_error": null,
+      "predicted_name": "University of Hong Kong",
+      "predicted_ror_id": "https://ror.org/02zhqgq86",
+      "query": "University of Hong Kong",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-9fa546614548",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": null,
+      "predicted_ror_id": null,
+      "query": "Splitsko-dalmatinska \u017eupanija",
+      "result_count": 0
+    },
+    {
+      "case_id": "case-2159e5425e87",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/04hbame29",
+      "lookup_error": null,
+      "predicted_name": "Gheskio Centers",
+      "predicted_ror_id": "https://ror.org/04hbame29",
+      "query": "LES CENTRES GHESKIO",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-ace3af86a4c4",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Centre d'Etude en Ethologie et Cognition",
+      "predicted_ror_id": "https://ror.org/02evk6c51",
+      "query": "ETHOS LIMITED",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-2f93891ec1d6",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Al-Idrisi University College",
+      "predicted_ror_id": "https://ror.org/00kr9ba60",
+      "query": "Yazda Al Iraq Organization",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c2dbaac23501",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/03fkc8c64",
+      "lookup_error": null,
+      "predicted_name": "University of the West Indies",
+      "predicted_ror_id": "https://ror.org/01aspja26",
+      "query": "THE UNIVERSITY OF THE WEST INDIES U WI*",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-b4507ac780a2",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/04a1r5z94",
+      "lookup_error": null,
+      "predicted_name": "Hashemite University",
+      "predicted_ror_id": "https://ror.org/04a1r5z94",
+      "query": "HASHEMITE UNIVERSITY",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-f8c09d181cae",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/03rk9qf06",
+      "lookup_error": null,
+      "predicted_name": "University of Kabianga",
+      "predicted_ror_id": "https://ror.org/03rk9qf06",
+      "query": "UNIVERSITY OF KABIANGA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-b7e2b41f1b02",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/033dmae14",
+      "lookup_error": null,
+      "predicted_name": "Royal University of Agriculture, Cambodia",
+      "predicted_ror_id": "https://ror.org/033dmae14",
+      "query": "ROYAL UNIVERSITY OF AGRICULTURE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-9657e9e60b22",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": null,
+      "predicted_ror_id": null,
+      "query": "ULBI METALLURGYALTZ ZAUYTY",
+      "result_count": 0
+    },
+    {
+      "case_id": "case-9b1ed326e075",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02v7y7w12",
+      "lookup_error": null,
+      "predicted_name": "Liechtenstein Institute",
+      "predicted_ror_id": "https://ror.org/02v7y7w12",
+      "query": "LIECHTENSTEIN-INSTITUT",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-193f053b7a48",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02rm76t37",
+      "lookup_error": null,
+      "predicted_name": "University of Sri Jayewardenepura",
+      "predicted_ror_id": "https://ror.org/02rm76t37",
+      "query": "UNIVERSITY OF SRI JAYEWARDENEPURA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-b7f2ee105bf5",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/04yadxf37",
+      "lookup_error": null,
+      "predicted_name": "National University of Lesotho",
+      "predicted_ror_id": "https://ror.org/04j4j0a75",
+      "query": "MINISTRY OF HEALTH LESOTHO",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-381235478129",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Bolivia Adventist University",
+      "predicted_ror_id": "https://ror.org/02x6tcp11",
+      "query": "UAB AVODES",
+      "result_count": 14
+    },
+    {
+      "case_id": "case-cfe8e364504e",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Riga Aeronautical Institute",
+      "predicted_ror_id": "https://ror.org/03zjsm671",
+      "query": "RIGAS PLANOSANAS REGIONS",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-55747c40c3bd",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Dorset Green Technology Park",
+      "predicted_ror_id": "https://ror.org/04pk7g992",
+      "query": "GREEN ENERGY PARK",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-13f2417f8b2c",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Netherlands School of Public Administration",
+      "predicted_ror_id": "https://ror.org/033958n71",
+      "query": "REGIONAL SCHOOL OF PUBLIC ADMINISTRATION",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-85c3028afb78",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/03fkjvy27",
+      "lookup_error": null,
+      "predicted_name": "Institut Pasteur de Madagascar",
+      "predicted_ror_id": "https://ror.org/03fkjvy27",
+      "query": "Institut Pasteur de Madagascar",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-d0946479e9d6",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Minerva Foundation",
+      "predicted_ror_id": "https://ror.org/0152xm391",
+      "query": "Minerva Marine INC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-16ad9d52d05d",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Stiles Eyecare Excellence",
+      "predicted_ror_id": "https://ror.org/05tg5qm65",
+      "query": "REGIONAL RURAL DEVELOPMENT STANDINGWORKING GROUP IN SEE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-e8f5692e3aba",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/00gcpds33",
+      "lookup_error": null,
+      "predicted_name": "Mongolian National University of Medical Sciences",
+      "predicted_ror_id": "https://ror.org/00gcpds33",
+      "query": "MONGOLIAN NATIONAL UNIVERSITY OF MEDICAL SCIENCES",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-cef9abe4eff1",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "EcoTech (Sweden)",
+      "predicted_ror_id": "https://ror.org/01j5kbq18",
+      "query": "Blue EcoTech LTD",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-052d8775c202",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Centre for Innovation Policy and Governance",
+      "predicted_ror_id": "https://ror.org/05n7d5e22",
+      "query": "INNOVATION FOR POLICY FOUNDATION",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-287e86c9d7c0",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/00dbrh564",
+      "lookup_error": null,
+      "predicted_name": "Hue University of Education",
+      "predicted_ror_id": "https://ror.org/04bm3wy68",
+      "query": "DHIVEHI RAAJEYGE QAUMEE UNIVERSITY",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-488c6f522d7f",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/02e91jd64",
+      "lookup_error": null,
+      "predicted_name": "Universiti Putra Malaysia",
+      "predicted_ror_id": "https://ror.org/02e91jd64",
+      "query": "UNIVERSITI PUTRA MALAYSIA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c03637f019ec",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Manhi\u00e7a Health Research Centre",
+      "predicted_ror_id": "https://ror.org/0287jnj14",
+      "query": "FUNDACAO MANHICA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-2b136f6b95b0",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Labotec (South Africa)",
+      "predicted_ror_id": "https://ror.org/01dgtbr50",
+      "query": "ONGWE MINERALS (PTY) LTD",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-f8702e5922a4",
+      "correct": false,
+      "expected_ror_id": "https://ror.org/03wtrat67",
+      "lookup_error": "HTTP 500: Internal Server Error",
+      "predicted_name": null,
+      "predicted_ror_id": null,
+      "query": "CENTRE FOR INTEGRATED HEALTH PROGRAMS LTD/GTE",
+      "result_count": 0
+    },
+    {
+      "case_id": "case-f066270a39d7",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Dairy Management",
+      "predicted_ror_id": "https://ror.org/00v3tjq70",
+      "query": "LATSCO MARINE MANAGEMENT INC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-57a2f8454bac",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/04xr5we72",
+      "lookup_error": null,
+      "predicted_name": "Universidad Cient\u00edfica del Sur",
+      "predicted_ror_id": "https://ror.org/04xr5we72",
+      "query": "UNIVERSIDAD CIENTIFICA DEL SUR SAC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-fb7b8fae1f22",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/03ay59x86",
+      "lookup_error": null,
+      "predicted_name": "University of French Polynesia",
+      "predicted_ror_id": "https://ror.org/03ay59x86",
+      "query": "UNIVERSITE DE LA POLYNESIE FRANCAISE",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-78ae30d93945",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/05jxf0p38",
+      "lookup_error": null,
+      "predicted_name": "University of Papua New Guinea",
+      "predicted_ror_id": "https://ror.org/05jxf0p38",
+      "query": "University of Papua New Guinea",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-f6ae1a659fa2",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Citrus Research Institute",
+      "predicted_ror_id": "https://ror.org/00mc9zb90",
+      "query": "Citrus Research Institute, Sargodha",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-1e8be130dc30",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Ancon (United Kingdom)",
+      "predicted_ror_id": "https://ror.org/05npt9421",
+      "query": "Ancon Global LLC",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-3c2c4cdd83fb",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/0256kw398",
+      "lookup_error": null,
+      "predicted_name": "Birzeit University",
+      "predicted_ror_id": "https://ror.org/0256kw398",
+      "query": "BIRZEIT UNIVERSITY",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-c63584b6c2c4",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Centro Studi Luca d\u2019Agliano",
+      "predicted_ror_id": "https://ror.org/05m2c7461",
+      "query": "FRENESIM DAS ONDAS LDA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-7971900cf5c9",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/03eyq4y97",
+      "lookup_error": null,
+      "predicted_name": "Hamad bin Khalifa University",
+      "predicted_ror_id": "https://ror.org/03eyq4y97",
+      "query": "Hamad Bin Khalifa University",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-e047289ff76d",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Academia Oamenilor de \u0218tiin\u021b\u0103 din Rom\u00e2nia",
+      "predicted_ror_id": "https://ror.org/04ybnj478",
+      "query": "ASOCIATA PRODUCATORILOR DE CARNE DE PORC DIN ROMANIA",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-97057e4503a5",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "African Agricultural Technology Foundation",
+      "predicted_ror_id": "https://ror.org/05vppxx21",
+      "query": "AFRICAN PHARMACEUTICAL TECHNOLOGY FOUNDATION",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-962fc2f68cc2",
+      "correct": true,
+      "expected_ror_id": "https://ror.org/00dn43547",
+      "lookup_error": null,
+      "predicted_name": "King Faisal University",
+      "predicted_ror_id": "https://ror.org/00dn43547",
+      "query": "King Faisal University",
+      "result_count": 20
+    },
+    {
+      "case_id": "case-d4ea79479df2",
+      "correct": false,
+      "expected_ror_id": null,
+      "lookup_error": null,
+      "predicted_name": "Freiwillige Akademische Gesellschaft",
+      "predicted_ror_id": "https://ror.org/00krb3q77",
+      "query": "ALMANAR VOLUNTARY ORGANIZATION",
+      "result_count": 20
+    }
+  ],
+  "metrics": {
+    "answerable_coverage": 0.9722,
+    "cases": 75,
+    "correct_abstentions": 3,
+    "coverage": 0.9467,
+    "end_to_end_recall": 0.8056,
+    "known_match_cases": 36,
+    "lookup_errors": 1,
+    "no_match_specificity": 0.0769,
+    "selective_precision": 0.4085,
+    "top1_accuracy_known": 0.8056
+  }
+}

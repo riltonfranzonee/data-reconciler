@@ -1,0 +1,7 @@
+query,country,city,expected_ror_id,stratum,notes
+University College London,GB,London,https://ror.org/02jx3x895,easy,exact display name
+UCL,GB,London,https://ror.org/02jx3x895,acronym,acronym
+Universitat zu Koln,DE,Koln,https://ror.org/00rcxh774,easy,alias
+Max Planck Gesellschaft,DE,Munich,https://ror.org/01hhn8329,easy,fuzzy alias
+Institute for Advanced Studies,GB,London,https://ror.example/gb-advanced,disambiguation,country disambiguation
+Fictional Moon Research Institute,US,Houston,,no_match,expected no match

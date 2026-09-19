@@ -1,0 +1,76 @@
+case_id,query,country,city,stratum,expected_ror_id,predicted_ror_id,predicted_name,known,blocking_hit,top1_hit,answered,correct_answered,correct_abstention,score,name_score,margin,latency_ms
+case-8e434bdfefa1,SERVEI ANDORRÀ D'ATENCIÓ SANITÀRIA,AD,Escaldes-Engordany,multilingual,,,,False,False,False,False,False,True,0.1877048509254305,0.16770485092543047,0.06820605859988772,51.299
+case-64357354108a,Technology Innovation Institute - Sole Proprietorship LLC,AE,Abu Dhabi,standard,https://ror.org/001kv2y39,,,True,True,True,False,False,False,0.67,0.6,0.24624257084762924,92.877
+case-de1e90daeda6,LADAR LIMITED,AI,The Valley,short_name,,,,False,False,False,False,False,True,0.2854097018508609,0.33540970185086094,0.008499661060548003,12.486
+case-20f403e9ab06,INSTITUTO DE INVESTIGACIONES EN CIENCIA Y TECNOLOGIA DE MATERIALES,AR,Mar Del Plata,standard,https://ror.org/034s8ev31,https://ror.org/034s8ev31,Instituto de Investigaciones en Ciencia y Tecnología de Materiales,True,True,True,True,True,False,1.0,1.0,0.3892276242306344,116.906
+case-eccb355dc9c8,OPEN KNOWLEDGE MAPS - VEREIN ZUR FORDERUNG DER SICHTBARKEIT WISSENSCHAFTLICHEN WISSENS,AT,WIEN,standard,,,,False,False,False,False,False,True,0.20928537660596322,0.1892853766059632,0.009285376605963208,67.041
+case-4ae2b8a871c3,Stichting Monumentenfonds Aruba,AW,oranjestad,standard,,,,False,False,False,False,False,True,0.2936064679005739,0.22360646790057392,0.11999999999999994,48.255
+case-08a516e61678,VISOKOSKOLSKA USTANOVA INTERNACIONALNI BURC UNIVERZITET-INTERNATIONAL BURCH UNIVERSITY,BA,Sarajevo,standard,https://ror.org/040cm8d21,,,True,True,True,False,False,False,0.6950000000000001,0.625,0.3467946728090787,113.136
+case-9d6e2cbff5f0,BRAC UNIVERSITY,BD,Dhaka,short_name,https://ror.org/00sge8677,https://ror.org/00sge8677,BRAC University,True,True,True,True,True,False,1.0,1.0,0.42999999999999994,39.205
+case-b4f90e172a0d,ZAZ VENTURES,BE,TOURNAI,short_name,,,,False,False,False,False,False,True,0.3710526315789474,0.4210526315789474,0.021052631578947434,25.636
+case-57d30c372109,COOPERATIE WOLFS COMPANY UA,BQ,Kralendijk,standard,,,,False,False,False,False,False,True,0.23500000000000001,0.285,0.06139353209942608,37.102
+case-553d5c1f5ac5,HEALTHY REEFS FOR HEALTHY PEOPLE BELIZE LTD,BZ,LORD'S BANK,standard,,,,False,False,False,False,False,True,0.3951285235054741,0.4451285235054741,0.09588776244281905,23.275
+case-c40b15aa2d59,Registered Nurses Association of Ontario,CA,Toronto,standard,https://ror.org/00w33ze35,https://ror.org/00w33ze35,Registered Nurses' Association of Ontario,True,True,True,True,True,False,1.0,1.0,0.4099517609719894,63.134
+case-51c325fc6ceb,ASSOCIATION PAYSANNE POUR LE DEVELOPPEMENT INTEGRE AU SUD-KIVU,CD,CYANGUNGU RWANDA,standard,,,,False,False,False,False,False,True,0.23091338057132596,0.280913380571326,0.009849469443387576,72.632
+case-a03570dd789b,INSTITUT CENTRAFRICAIN DE RECHERCHE AGRONOMIQUE,CF,BANGUI,standard,,,,False,False,False,False,False,True,0.563131714816618,0.613131714816618,0.016350179061776604,93.966
+case-08e426a463db,FONDATION CONGOLAISE POUR LA RECHERCHE MEDICALE,CG,BRAZZAVILLE,standard,https://ror.org/023f4f524,https://ror.org/023f4f524,Fondation Congolaise Pour La Recherche Médicale,True,True,True,True,True,False,1.0,1.0,0.25,77.357
+case-faefe55dc328,Stadt Dietikon,CH,Dietikon,short_name,,,,False,False,False,False,False,True,0.3110339675522125,0.29103396755221256,0.0,13.949
+case-3ea4c7b4bf79,CAMEROON FORUM FOR AGRICULTURAL ADVISORY SERVICES (CAMFAAS),CM,Yaounde,standard,,,,False,False,False,False,False,True,0.6226339709227051,0.6726339709227052,0.23274586102970163,45.522
+case-f136b29a1df3,Hangzhou City University,CN,Hangzhou,standard,https://ror.org/01wck0s05,https://ror.org/01wck0s05,Hangzhou City University,True,True,True,True,True,False,1.0,1.0,0.0216666666666665,46.25
+case-7cc14fade058,Ministerio de Ciencia y Tecnologia de Costa Rica,CR,San Jose,standard,https://ror.org/05dbsyw70,,,True,True,False,False,False,False,0.5499999999999999,0.6,0.013013297683208025,82.323
+case-6417e00055fa,Universidade Lusófona de Cabo Verde,CV,Mindelo,multilingual,,,,False,False,False,False,False,True,0.77,0.75,0.21532766965310646,54.525
+case-fefb10505ea8,STREDISKO SPOLECNYCH CINNOSTI AV CR v.v.i.,CZ,Prague 1,standard,https://ror.org/03zkxs276,https://ror.org/03zkxs276,"Czech Academy of Sciences, Centre of Administration and Operations",True,True,True,True,True,False,1.0,1.0,0.858069036898785,44.699
+case-c114ecf96cf4,ASSOCIATION INSTITUT DE RECHERCHE INDEPENDANT DE LA CORNE D'AFRIQUE,DJ,Djibouti,standard,,,,False,False,False,False,False,True,0.20307827034911624,0.25307827034911623,0.005784646179408409,117.702
+case-7c526c2b3ac7,BOLDING & BRUGGEMAN APS,DK,Asperup,standard,https://ror.org/05hc3k973,https://ror.org/05hc3k973,Bolding & Bruggeman,True,True,True,True,True,False,1.0,1.0,0.7166666666666667,26.116
+case-fc5e7d5707dd,PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA,DO,Santiago De Los Caballeros,standard,https://ror.org/02m457w49,https://ror.org/02m457w49,Pontificia Universidad Católica Madre y Maestra,True,True,True,True,True,False,1.0,1.0,0.5762425708476292,69.119
+case-d9afbb5a1804,UNIVERSITE DE GHARDAIA,DZ,Ghardaia,standard,https://ror.org/02ck5yd04,https://ror.org/02ck5yd04,University of Ghardaia,True,True,True,True,True,False,0.9336363636363637,0.8636363636363636,0.5998027244776634,48.269
+case-cb5daafce7ba,NORTH-SOUTH CONSULTANTS EXCHANGE LLC,EG,CAIRO,standard,https://ror.org/020az2v11,https://ror.org/020az2v11,North South Consultants Exchange (Egypt),True,True,True,True,True,False,1.0,1.0,0.6790595637454382,29.684
+case-9e6628678946,ENVECO ANONYMI ETAIRIA PROSTASIAS KAI DIAHIRISIS PERIVALLONTOS A.E.,EL,MAROUSI,standard,,,,False,False,False,False,False,True,0.09285714285714285,0.14285714285714285,0.0,49.359
+case-b283c207a030,UNIVERSITY OF THE SOUTH PACIFIC,FJ,Suva,standard,https://ror.org/008stv805,https://ror.org/008stv805,University of the South Pacific,True,True,True,True,True,False,1.0,1.0,0.14578555188660403,48.614
+case-4b63670ad48b,ARWIN,FR,Paris,acronym,,,,False,False,False,False,False,True,0.6561256881070756,0.7061256881070757,0.0,3.345
+case-a00f1305cb64,GEORGIAN INSTITUTE FOR RESEARCH & INNOVATION,GE,Tbilisi,standard,,,,False,False,False,False,False,True,0.6673913043478261,0.7173913043478262,0.1127659806093505,86.722
+case-c8a2a0c20cae,GRONLANDS NATURINSTITUT,GL,Nuuk,short_name,https://ror.org/0342y5q78,,,True,True,True,False,False,False,0.4452358729071416,0.37523587290714167,0.4452358729071416,42.337
+case-394a8d3283c0,THE NATIONAL SEED SECRETARIAT,GM,BANJUL,standard,,,,False,False,False,False,False,True,0.38287398504648307,0.4328739850464831,0.00588944197342145,45.937
+case-e169dc10a410,UNIVERSIDAD SAN PABLO DE GUATEMALA,GT,Guatemala,standard,,,,False,False,False,False,False,True,0.7,0.75,0.030000000000000027,54.576
+case-4b1165e34236,University of Guam,GU,Mangilao,standard,https://ror.org/00376bg92,https://ror.org/00376bg92,University of Guam,True,True,True,True,True,False,1.0,1.0,0.5954545454545455,36.378
+case-2b37522a2f41,University of Hong Kong,HK,Hong Kong,standard,https://ror.org/02zhqgq86,https://ror.org/02zhqgq86,University of Hong Kong,True,True,True,True,True,False,1.0,1.0,0.02578555188660392,38.864
+case-9fa546614548,Splitsko-dalmatinska županija,HR,Split,multilingual,,,,False,False,False,False,False,True,0.25,0.3,0.12566572768263423,38.785
+case-2159e5425e87,LES CENTRES GHESKIO,HT,Port-Au-Prince,standard,https://ror.org/04hbame29,,,True,True,True,False,False,False,0.6190196078431373,0.5490196078431372,0.23986777236953227,30.783
+case-ace3af86a4c4,ETHOS LIMITED,IM,DOUGLAS,short_name,,,,False,False,False,False,False,True,0.44999999999999996,0.5,0.0,16.937
+case-2f93891ec1d6,Yazda Al Iraq Organization,IQ,Duhok,standard,,,,False,False,False,False,False,True,0.20806451612903226,0.25806451612903225,0.033897631015674945,36.072
+case-c2dbaac23501,THE UNIVERSITY OF THE WEST INDIES U WI*,JM,Kingston,standard,https://ror.org/03fkc8c64,https://ror.org/03fkc8c64,University of the West Indies,True,True,True,True,True,False,1.0,1.0,0.050000000000000044,54.488
+case-b4507ac780a2,HASHEMITE UNIVERSITY,JO,ZARQA,short_name,https://ror.org/04a1r5z94,https://ror.org/04a1r5z94,Hashemite University,True,True,True,True,True,False,1.0,1.0,0.6831303413363645,42.547
+case-f8c09d181cae,UNIVERSITY OF KABIANGA,KE,KERICHO,standard,https://ror.org/03rk9qf06,https://ror.org/03rk9qf06,University of Kabianga,True,True,True,True,True,False,1.0,1.0,0.6661663608412998,43.346
+case-b7e2b41f1b02,ROYAL UNIVERSITY OF AGRICULTURE,KH,Phnom Penh,standard,https://ror.org/033dmae14,https://ror.org/033dmae14,"Royal University of Agriculture, Cambodia",True,True,True,True,True,False,0.9742144481133961,0.904214448113396,0.1242144481133961,50.702
+case-9657e9e60b22,ULBI METALLURGYALTZ ZAUYTY,KZ,UST KAMENOGORSK,standard,,,,False,False,False,False,False,True,0.0,0.0,0.0,19.494
+case-9b1ed326e075,LIECHTENSTEIN-INSTITUT,LI,GAMPRIN-BENDERN,short_name,https://ror.org/02v7y7w12,https://ror.org/02v7y7w12,Liechtenstein Institute,True,True,True,True,True,False,1.0,1.0,0.6264705882352941,45.514
+case-193f053b7a48,UNIVERSITY OF SRI JAYEWARDENEPURA,LK,Nugegoda,standard,https://ror.org/02rm76t37,https://ror.org/02rm76t37,University of Sri Jayewardenepura,True,True,True,True,True,False,1.0,1.0,0.3833333333333334,48.69
+case-b7f2ee105bf5,MINISTRY OF HEALTH LESOTHO,LS,Maseru,standard,https://ror.org/04yadxf37,,,True,True,True,False,False,False,0.7366666666666667,0.6666666666666666,0.1200000000000001,26.819
+case-381235478129,UAB AVODES,LT,Kaunas,short_name,,,,False,False,False,False,False,True,0.44999999999999996,0.5,0.0,7.474
+case-cfe8e364504e,RIGAS PLANOSANAS REGIONS,LV,Riga,standard,,,,False,False,False,False,False,True,0.24200497530813378,0.17200497530813377,0.009747259271965153,35.844
+case-55747c40c3bd,GREEN ENERGY PARK,MA,BENGUERIR,standard,,,,False,False,False,False,False,True,0.3972129358011478,0.44721293580114785,0.0,15.663
+case-13f2417f8b2c,REGIONAL SCHOOL OF PUBLIC ADMINISTRATION,ME,Danilovgrad,standard,,,,False,False,False,False,False,True,0.5772987733786685,0.6272987733786686,0.03510198693820499,58.316
+case-85c3028afb78,Institut Pasteur de Madagascar,MG,Antananarivo,standard,https://ror.org/03fkjvy27,https://ror.org/03fkjvy27,Institut Pasteur de Madagascar,True,True,True,True,True,False,1.0,1.0,0.3833333333333334,56.547
+case-d0946479e9d6,Minerva Marine INC,MH,Majuro,standard,,,,False,False,False,False,False,True,0.44999999999999996,0.5,0.04999999999999993,19.981
+case-16ad9d52d05d,REGIONAL RURAL DEVELOPMENT STANDINGWORKING GROUP IN SEE,MK,Skopje,standard,,,,False,False,False,False,False,True,0.37749999999999995,0.4275,0.17534875628219915,97.397
+case-e8f5692e3aba,MONGOLIAN NATIONAL UNIVERSITY OF MEDICAL SCIENCES,MN,Ulaanbaatar,standard,https://ror.org/00gcpds33,https://ror.org/00gcpds33,Mongolian National University of Medical Sciences,True,True,True,True,True,False,1.0,1.0,0.25,103.947
+case-cef9abe4eff1,Blue EcoTech LTD,MT,San Paul's Bay,standard,,,,False,False,False,False,False,True,0.44999999999999996,0.5,0.0,14.529
+case-052d8775c202,INNOVATION FOR POLICY FOUNDATION,MU,Ebene,standard,,,,False,False,False,False,False,True,0.4574251034568745,0.5074251034568745,0.031042476917361617,47.421
+case-287e86c9d7c0,DHIVEHI RAAJEYGE QAUMEE UNIVERSITY,MV,MALE,standard,https://ror.org/00dbrh564,,,True,False,False,False,False,False,0.1673913043478261,0.21739130434782608,0.04739808313686343,41.715
+case-488c6f522d7f,UNIVERSITI PUTRA MALAYSIA,MY,Selangor Darul Ehsan,standard,https://ror.org/02e91jd64,https://ror.org/02e91jd64,Universiti Putra Malaysia,True,True,True,True,True,False,1.0,1.0,0.4246739667767965,36.321
+case-c03637f019ec,FUNDACAO MANHICA,MZ,VILA DA MANHICA MAPUTO,short_name,,,,False,False,False,False,False,True,0.2854097018508609,0.33540970185086094,0.0022525834983850856,23.25
+case-2b136f6b95b0,ONGWE MINERALS (PTY) LTD,NA,Windhoek,standard,,,,False,False,False,False,False,True,0.3710526315789474,0.4210526315789474,0.08564292972808651,17.896
+case-f8702e5922a4,CENTRE FOR INTEGRATED HEALTH PROGRAMS LTD/GTE,NG,Abuja,standard,https://ror.org/03wtrat67,,,True,True,True,False,False,False,0.7366666666666667,0.6666666666666666,0.5359986655589706,53.428
+case-f066270a39d7,LATSCO MARINE MANAGEMENT INC,PA,PANAMA,standard,,,,False,False,False,False,False,True,0.36361459267689944,0.4136145926768995,0.04595064994327025,37.414
+case-57a2f8454bac,UNIVERSIDAD CIENTIFICA DEL SUR SAC,PE,LIMA,standard,https://ror.org/04xr5we72,https://ror.org/04xr5we72,Universidad Científica del Sur,True,True,True,True,True,False,0.8700000000000001,0.8,0.4513983335905155,62.024
+case-fb7b8fae1f22,UNIVERSITE DE LA POLYNESIE FRANCAISE,PF,TAHITI,standard,https://ror.org/03ay59x86,https://ror.org/03ay59x86,University of French Polynesia,True,True,True,True,True,False,1.0,1.0,0.5554127516605843,62.111
+case-78ae30d93945,University of Papua New Guinea,PG,Port Moresby,standard,https://ror.org/05jxf0p38,https://ror.org/05jxf0p38,University of Papua New Guinea,True,True,True,True,True,False,1.0,1.0,0.05512828998128039,45.312
+case-f6ae1a659fa2,"Citrus Research Institute, Sargodha",PK,Sargodha,standard,,,,False,False,False,False,False,True,0.7,0.75,0.16537858958185592,52.631
+case-1e8be130dc30,Ancon Global LLC,PR,Aguadilla,standard,,,,False,False,False,False,False,True,0.44999999999999996,0.5,0.09999999999999998,13.409
+case-3c2c4cdd83fb,BIRZEIT UNIVERSITY,PS,BIRZEIT,short_name,https://ror.org/0256kw398,https://ror.org/0256kw398,Birzeit University,True,True,True,True,True,False,1.0,1.0,0.5954545454545455,38.274
+case-c63584b6c2c4,FRENESIM DAS ONDAS LDA,PT,Amadora,standard,,,,False,False,False,False,False,True,0.3533333333333333,0.3333333333333333,0.06999999999999995,17.919
+case-7971900cf5c9,Hamad Bin Khalifa University,QA,Qatar,standard,https://ror.org/03eyq4y97,https://ror.org/03eyq4y97,Hamad bin Khalifa University,True,True,True,True,True,False,1.0,1.0,0.55,46.442
+case-e047289ff76d,ASOCIATA PRODUCATORILOR DE CARNE DE PORC DIN ROMANIA,RO,BUCURESTI,standard,,,,False,False,False,False,False,True,0.3004972179867423,0.2804972179867423,0.10695783260449113,57.207
+case-97057e4503a5,AFRICAN PHARMACEUTICAL TECHNOLOGY FOUNDATION,RW,KIGALI,standard,,,,False,False,False,False,False,True,0.5335337426778312,0.5835337426778312,0.1560337426778312,77.224
+case-962fc2f68cc2,King Faisal University,SA,,standard,https://ror.org/00dn43547,https://ror.org/00dn43547,King Faisal University,True,True,True,True,True,False,1.0,1.0,0.125785551886604,45.056
+case-d4ea79479df2,ALMANAR VOLUNTARY ORGANIZATION,SD,Khartoum,standard,,,,False,False,False,False,False,True,0.3972129358011478,0.44721293580114785,0.033598343124248364,51.154

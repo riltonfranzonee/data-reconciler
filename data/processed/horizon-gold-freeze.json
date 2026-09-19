@@ -1,0 +1,70 @@
+{
+  "frozen_at": "2026-07-17",
+  "status": "frozen_for_development_and_held_out_evaluation",
+  "resolution": {
+    "case_id": "case-c03637f019ec",
+    "query": "FUNDACAO MANHICA",
+    "final_status": "no_match",
+    "rule": "Exact-entity rule: the ROR record for CISM is not a record for the legal foundation; resolved as no_match before the split was frozen."
+  },
+  "split": {
+    "seed": 42,
+    "dev_fraction": 0.5,
+    "stratification": [
+      "query stratum",
+      "known-match versus no-match status"
+    ],
+    "dev_test_disjoint": true,
+    "union_equals_final": true,
+    "byte_reproducible": true
+  },
+  "datasets": {
+    "final": {
+      "cases": 150,
+      "label_counts": {
+        "match": 73,
+        "no_match": 77
+      },
+      "stratum_counts": {
+        "acronym": 2,
+        "multilingual": 5,
+        "short_name": 22,
+        "standard": 121
+      }
+    },
+    "dev": {
+      "cases": 75,
+      "label_counts": {
+        "match": 37,
+        "no_match": 38
+      },
+      "stratum_counts": {
+        "acronym": 1,
+        "multilingual": 2,
+        "short_name": 11,
+        "standard": 61
+      }
+    },
+    "test": {
+      "cases": 75,
+      "label_counts": {
+        "match": 36,
+        "no_match": 39
+      },
+      "stratum_counts": {
+        "acronym": 1,
+        "multilingual": 3,
+        "short_name": 11,
+        "standard": 60
+      }
+    }
+  },
+  "sha256": {
+    "final_gold": "57a489cfd292fae2f9ae835abb959d639cdcffeeae1029dce74003f1ba018dbd",
+    "dev": "18c06199132cad7412fcc03861d8f81053e093122a161bfcd426a05de30b5c10",
+    "test": "2b26883efd2d9c97672af0e876a3cab68b1c563369156e0552c1f32b76c1ee2c",
+    "splitter_source": "9674eb6a8180ea0c6a8a609b923561830b9ecd11cce3eb8af04b62d49cda78f9"
+  },
+  "held_out_test_run": false,
+  "warning": "Do not inspect matcher performance on the test split until code and thresholds are frozen."
+}

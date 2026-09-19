@@ -1,0 +1,22 @@
+{
+  "confidence": 0.95,
+  "intervals": {
+    "no_match_specificity": {
+      "estimate": 1.0,
+      "lower": 0.9097488990396656,
+      "successes": 39,
+      "trials": 39,
+      "upper": 1.0
+    },
+    "selective_precision": {
+      "estimate": 1.0,
+      "lower": 0.8765638814997361,
+      "successes": 28,
+      "trials": 28,
+      "upper": 1.0
+    }
+  },
+  "method": "two-sided Clopper-Pearson exact binomial interval",
+  "source_cases": "data/reports/horizon-test-evaluation-cases.csv",
+  "status": "post-hoc supplementary uncertainty analysis; frozen matcher output unchanged"
+}

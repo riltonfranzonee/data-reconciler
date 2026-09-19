@@ -1,0 +1,97 @@
+{
+ "status": "post-hoc dev-only sensitivity analysis; run after the sealed held-out evaluation; no matcher change and no test-split contact",
+ "date": "2026-08-15",
+ "data": "data/processed/horizon-gold-dev.csv (75 cases)",
+ "held_constant": "frozen gates: lexical 0.80, final 0.86, margin 0.03; all other parameters at frozen values except the one swept",
+ "sweeps": {
+  "token_coverage_threshold": {
+   "0.76": {
+    "precision": 1.0,
+    "answerable_coverage": 0.9189,
+    "specificity": 1.0
+   },
+   "0.80": {
+    "precision": 1.0,
+    "answerable_coverage": 0.9189,
+    "specificity": 1.0
+   },
+   "0.84 (frozen)": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.88": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.92": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8108,
+    "specificity": 1.0
+   }
+  },
+  "compactness_exponent": {
+   "0.15": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.25": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.35 (frozen)": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.45": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "0.55": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   }
+  },
+  "country_weights": {
+   "+0.02/-0.015": {
+    "precision": 1.0,
+    "answerable_coverage": 0.7838,
+    "specificity": 1.0
+   },
+   "+0.04/-0.03 (frozen)": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "+0.06/-0.045": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   }
+  },
+  "shortlist_limit": {
+   "25": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "50 (frozen)": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   },
+   "100": {
+    "precision": 1.0,
+    "answerable_coverage": 0.8649,
+    "specificity": 1.0
+   }
+  }
+ },
+ "finding": "Development precision and no-match specificity are 1.0000 at every tested setting of all four inherited parameters. Only answerable coverage moves, by at most 0.11. A looser coverage cutoff (0.76-0.80) would have reached higher development coverage than the frozen 0.84; the frozen configuration was not retuned because the held-out evaluation was already sealed."
+}

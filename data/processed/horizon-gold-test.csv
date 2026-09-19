@@ -1,0 +1,76 @@
+case_id,query,country,city,expected_ror_id,stratum,source,notes
+case-8e434bdfefa1,SERVEI ANDORRÀ D'ATENCIÓ SANITÀRIA,AD,Escaldes-Engordany,,multilingual,CORDIS:881160029,CORDIS organisationID=881160029; activityType=PUB
+case-64357354108a,Technology Innovation Institute - Sole Proprietorship LLC,AE,Abu Dhabi,https://ror.org/001kv2y39,standard,CORDIS:888545027,CORDIS organisationID=888545027; shortName=Technology Innovation Institute - Sole Proprietorship LLC; activityType=PRC
+case-de1e90daeda6,LADAR LIMITED,AI,The Valley,,short_name,CORDIS:929987501,CORDIS organisationID=929987501; activityType=PRC
+case-20f403e9ab06,INSTITUTO DE INVESTIGACIONES EN CIENCIA Y TECNOLOGIA DE MATERIALES,AR,Mar Del Plata,https://ror.org/034s8ev31,standard,CORDIS:998459413,CORDIS organisationID=998459413; shortName=INTEMA; activityType=REC
+case-eccb355dc9c8,OPEN KNOWLEDGE MAPS - VEREIN ZUR FORDERUNG DER SICHTBARKEIT WISSENSCHAFTLICHEN WISSENS,AT,WIEN,,standard,CORDIS:911513657,CORDIS organisationID=911513657; activityType=REC
+case-4ae2b8a871c3,Stichting Monumentenfonds Aruba,AW,oranjestad,,standard,CORDIS:875447796,CORDIS organisationID=875447796; shortName=Stichting MonumentenfondsAruba; activityType=OTH
+case-08a516e61678,VISOKOSKOLSKA USTANOVA INTERNACIONALNI BURC UNIVERZITET-INTERNATIONAL BURCH UNIVERSITY,BA,Sarajevo,https://ror.org/040cm8d21,standard,CORDIS:949759496,CORDIS organisationID=949759496; shortName=International Burch University; activityType=HES
+case-9d6e2cbff5f0,BRAC UNIVERSITY,BD,Dhaka,https://ror.org/00sge8677,short_name,CORDIS:955450486,CORDIS organisationID=955450486; shortName=BRACU; activityType=HES
+case-b4f90e172a0d,ZAZ VENTURES,BE,TOURNAI,,short_name,CORDIS:950322193,CORDIS organisationID=950322193; activityType=PRC
+case-57d30c372109,COOPERATIE WOLFS COMPANY UA,BQ,Kralendijk,,standard,CORDIS:918059508,CORDIS organisationID=918059508; activityType=PRC
+case-553d5c1f5ac5,HEALTHY REEFS FOR HEALTHY PEOPLE BELIZE LTD,BZ,LORD'S BANK,,standard,CORDIS:869372783,CORDIS organisationID=869372783; shortName=Healthy Reefs for Healthy People; activityType=OTH
+case-c40b15aa2d59,Registered Nurses Association of Ontario,CA,Toronto,https://ror.org/00w33ze35,standard,CORDIS:889726390,CORDIS organisationID=889726390; shortName=Registered Nurses' Association of Ontario; activityType=OTH
+case-51c325fc6ceb,ASSOCIATION PAYSANNE POUR LE DEVELOPPEMENT INTEGRE AU SUD-KIVU,CD,CYANGUNGU RWANDA,,standard,CORDIS:888242484,CORDIS organisationID=888242484; activityType=OTH
+case-a03570dd789b,INSTITUT CENTRAFRICAIN DE RECHERCHE AGRONOMIQUE,CF,BANGUI,,standard,CORDIS:873539418,CORDIS organisationID=873539418; activityType=PUB
+case-08e426a463db,FONDATION CONGOLAISE POUR LA RECHERCHE MEDICALE,CG,BRAZZAVILLE,https://ror.org/023f4f524,standard,CORDIS:892581488,CORDIS organisationID=892581488; activityType=OTH
+case-faefe55dc328,Stadt Dietikon,CH,Dietikon,,short_name,CORDIS:876456790,CORDIS organisationID=876456790; shortName=Stadt Dietikon; activityType=PUB
+case-3ea4c7b4bf79,CAMEROON FORUM FOR AGRICULTURAL ADVISORY SERVICES (CAMFAAS),CM,Yaounde,,standard,CORDIS:889396590,CORDIS organisationID=889396590; shortName=CAMFAAS; activityType=OTH
+case-f136b29a1df3,Hangzhou City University,CN,Hangzhou,https://ror.org/01wck0s05,standard,CORDIS:879662155,CORDIS organisationID=879662155; shortName=Hangzhou City University; activityType=PUB
+case-7cc14fade058,Ministerio de Ciencia y Tecnologia de Costa Rica,CR,San Jose,https://ror.org/05dbsyw70,standard,CORDIS:958320134,CORDIS organisationID=958320134; shortName=MICIT; activityType=PUB
+case-6417e00055fa,Universidade Lusófona de Cabo Verde,CV,Mindelo,,multilingual,CORDIS:867275546,CORDIS organisationID=867275546; shortName=Cooperativa de Formação e Animação Cultural - Sucursal de Cabo Verde; activityType=PRC
+case-fefb10505ea8,STREDISKO SPOLECNYCH CINNOSTI AV CR v.v.i.,CZ,Prague 1,https://ror.org/03zkxs276,standard,CORDIS:998241163,"CORDIS organisationID=998241163; shortName=SSC AV CR, v.v.i.; activityType=PUB"
+case-c114ecf96cf4,ASSOCIATION INSTITUT DE RECHERCHE INDEPENDANT DE LA CORNE D'AFRIQUE,DJ,Djibouti,,standard,CORDIS:872198975,CORDIS organisationID=872198975; shortName=IRICA; activityType=REC
+case-7c526c2b3ac7,BOLDING & BRUGGEMAN APS,DK,Asperup,https://ror.org/05hc3k973,standard,CORDIS:998704241,CORDIS organisationID=998704241; shortName=BB; activityType=PRC
+case-fc5e7d5707dd,PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA,DO,Santiago De Los Caballeros,https://ror.org/02m457w49,standard,CORDIS:914352362,CORDIS organisationID=914352362; activityType=HES
+case-d9afbb5a1804,UNIVERSITE DE GHARDAIA,DZ,Ghardaia,https://ror.org/02ck5yd04,standard,CORDIS:932844539,CORDIS organisationID=932844539; activityType=HES
+case-cb5daafce7ba,NORTH-SOUTH CONSULTANTS EXCHANGE LLC,EG,CAIRO,https://ror.org/020az2v11,standard,CORDIS:998147558,CORDIS organisationID=998147558; shortName=North South Consultants Exchange; activityType=PRC
+case-9e6628678946,ENVECO ANONYMI ETAIRIA PROSTASIAS KAI DIAHIRISIS PERIVALLONTOS A.E.,EL,MAROUSI,,standard,CORDIS:901548653,CORDIS organisationID=901548653; shortName=ENVECO S.A. ENVIRONMENTAL PROTECTION  AND MANAGEMENT; activityType=PRC
+case-b283c207a030,UNIVERSITY OF THE SOUTH PACIFIC,FJ,Suva,https://ror.org/008stv805,standard,CORDIS:997324028,CORDIS organisationID=997324028; shortName=USP; activityType=HES
+case-4b63670ad48b,ARWIN,FR,Paris,,acronym,CORDIS:889521526,CORDIS organisationID=889521526; shortName=ARWIN; activityType=PRC
+case-a00f1305cb64,GEORGIAN INSTITUTE FOR RESEARCH & INNOVATION,GE,Tbilisi,,standard,CORDIS:873604408,CORDIS organisationID=873604408; shortName=GIRI; activityType=OTH
+case-c8a2a0c20cae,GRONLANDS NATURINSTITUT,GL,Nuuk,https://ror.org/0342y5q78,short_name,CORDIS:998297908,CORDIS organisationID=998297908; activityType=REC
+case-394a8d3283c0,THE NATIONAL SEED SECRETARIAT,GM,BANJUL,,standard,CORDIS:885727468,CORDIS organisationID=885727468; shortName=National Seed Secretariat; activityType=REC
+case-e169dc10a410,UNIVERSIDAD SAN PABLO DE GUATEMALA,GT,Guatemala,,standard,CORDIS:889102292,CORDIS organisationID=889102292; activityType=HES
+case-4b1165e34236,University of Guam,GU,Mangilao,https://ror.org/00376bg92,standard,CORDIS:908150764,CORDIS organisationID=908150764; shortName=University of Guam; activityType=PUB
+case-2b37522a2f41,University of Hong Kong,HK,Hong Kong,https://ror.org/02zhqgq86,standard,CORDIS:901812881,CORDIS organisationID=901812881; activityType=PRC
+case-9fa546614548,Splitsko-dalmatinska županija,HR,Split,,multilingual,CORDIS:996539201,CORDIS organisationID=996539201; activityType=PUB
+case-2159e5425e87,LES CENTRES GHESKIO,HT,Port-Au-Prince,https://ror.org/04hbame29,standard,CORDIS:999554640,CORDIS organisationID=999554640; shortName=GHESKIO; activityType=REC
+case-ace3af86a4c4,ETHOS LIMITED,IM,DOUGLAS,,short_name,CORDIS:886558758,CORDIS organisationID=886558758; shortName=ETHOS LIMITED; activityType=PRC
+case-2f93891ec1d6,Yazda Al Iraq Organization,IQ,Duhok,,standard,CORDIS:896083479,CORDIS organisationID=896083479; shortName=Yazda; activityType=OTH
+case-c2dbaac23501,THE UNIVERSITY OF THE WEST INDIES U WI*,JM,Kingston,https://ror.org/03fkc8c64,standard,CORDIS:999871248,CORDIS organisationID=999871248; shortName=UWI; activityType=HES
+case-b4507ac780a2,HASHEMITE UNIVERSITY,JO,ZARQA,https://ror.org/04a1r5z94,short_name,CORDIS:991910070,CORDIS organisationID=991910070; shortName=HU; activityType=REC
+case-f8c09d181cae,UNIVERSITY OF KABIANGA,KE,KERICHO,https://ror.org/03rk9qf06,standard,CORDIS:913866683,CORDIS organisationID=913866683; shortName=University of Kabianga; activityType=HES
+case-b7e2b41f1b02,ROYAL UNIVERSITY OF AGRICULTURE,KH,Phnom Penh,https://ror.org/033dmae14,standard,CORDIS:994168036,CORDIS organisationID=994168036; shortName=RUA; activityType=HES
+case-9657e9e60b22,ULBI METALLURGYALTZ ZAUYTY,KZ,UST KAMENOGORSK,,standard,CORDIS:870076712,CORDIS organisationID=870076712; activityType=PRC
+case-9b1ed326e075,LIECHTENSTEIN-INSTITUT,LI,GAMPRIN-BENDERN,https://ror.org/02v7y7w12,short_name,CORDIS:940679035,CORDIS organisationID=940679035; activityType=REC
+case-193f053b7a48,UNIVERSITY OF SRI JAYEWARDENEPURA,LK,Nugegoda,https://ror.org/02rm76t37,standard,CORDIS:992678019,CORDIS organisationID=992678019; activityType=HES
+case-b7f2ee105bf5,MINISTRY OF HEALTH LESOTHO,LS,Maseru,https://ror.org/04yadxf37,standard,CORDIS:885353145,CORDIS organisationID=885353145; shortName=Ministry of Health; activityType=PUB
+case-381235478129,UAB AVODES,LT,Kaunas,,short_name,CORDIS:891900548,CORDIS organisationID=891900548; activityType=PRC
+case-cfe8e364504e,RIGAS PLANOSANAS REGIONS,LV,Riga,,standard,CORDIS:970538448,CORDIS organisationID=970538448; activityType=PUB
+case-55747c40c3bd,GREEN ENERGY PARK,MA,BENGUERIR,,standard,CORDIS:906552980,CORDIS organisationID=906552980; shortName=GEP; activityType=REC
+case-13f2417f8b2c,REGIONAL SCHOOL OF PUBLIC ADMINISTRATION,ME,Danilovgrad,,standard,CORDIS:893910485,CORDIS organisationID=893910485; shortName=REGIONALNA SKOLA ZA DRZAVNU UPRAVU DANILOVGRAD; activityType=PUB
+case-85c3028afb78,Institut Pasteur de Madagascar,MG,Antananarivo,https://ror.org/03fkjvy27,standard,CORDIS:986872084,CORDIS organisationID=986872084; shortName=IPM; activityType=REC
+case-d0946479e9d6,Minerva Marine INC,MH,Majuro,,standard,CORDIS:877889480,CORDIS organisationID=877889480; shortName=Minerva Marine INC; activityType=PRC
+case-16ad9d52d05d,REGIONAL RURAL DEVELOPMENT STANDINGWORKING GROUP IN SEE,MK,Skopje,,standard,CORDIS:913380131,CORDIS organisationID=913380131; shortName=SWG RRD SECRETARIAT OF THE REGIONAL RURAL DEVELOPMENT STANDING WORKING GROUP; activityType=PUB
+case-e8f5692e3aba,MONGOLIAN NATIONAL UNIVERSITY OF MEDICAL SCIENCES,MN,Ulaanbaatar,https://ror.org/00gcpds33,standard,CORDIS:928397380,CORDIS organisationID=928397380; shortName=MNUMS; activityType=HES
+case-cef9abe4eff1,Blue EcoTech LTD,MT,San Paul's Bay,,standard,CORDIS:888430761,CORDIS organisationID=888430761; shortName=Blue EcoTech; activityType=PRC
+case-052d8775c202,INNOVATION FOR POLICY FOUNDATION,MU,Ebene,,standard,CORDIS:896298237,CORDIS organisationID=896298237; activityType=OTH
+case-287e86c9d7c0,DHIVEHI RAAJEYGE QAUMEE UNIVERSITY,MV,MALE,https://ror.org/00dbrh564,standard,CORDIS:921155651,CORDIS organisationID=921155651; shortName=THE MALDIVES NATIONAL UNIVERSITY; activityType=HES
+case-488c6f522d7f,UNIVERSITI PUTRA MALAYSIA,MY,Selangor Darul Ehsan,https://ror.org/02e91jd64,standard,CORDIS:999650282,CORDIS organisationID=999650282; shortName=UPM; activityType=HES
+case-c03637f019ec,FUNDACAO MANHICA,MZ,VILA DA MANHICA MAPUTO,,short_name,CORDIS:954910390,CORDIS organisationID=954910390; shortName=FM; activityType=REC
+case-2b136f6b95b0,ONGWE MINERALS (PTY) LTD,NA,Windhoek,,standard,CORDIS:879778264,CORDIS organisationID=879778264; activityType=PRC
+case-f8702e5922a4,CENTRE FOR INTEGRATED HEALTH PROGRAMS LTD/GTE,NG,Abuja,https://ror.org/03wtrat67,standard,CORDIS:880817522,CORDIS organisationID=880817522; shortName=Centre for Integrated Health Programs; activityType=REC
+case-f066270a39d7,LATSCO MARINE MANAGEMENT INC,PA,PANAMA,,standard,CORDIS:896736677,CORDIS organisationID=896736677; activityType=PRC
+case-57a2f8454bac,UNIVERSIDAD CIENTIFICA DEL SUR SAC,PE,LIMA,https://ror.org/04xr5we72,standard,CORDIS:888064683,CORDIS organisationID=888064683; shortName=UNIVERSIDAD CIENTIFICA DEL SUR SAC; activityType=HES
+case-fb7b8fae1f22,UNIVERSITE DE LA POLYNESIE FRANCAISE,PF,TAHITI,https://ror.org/03ay59x86,standard,CORDIS:940867118,CORDIS organisationID=940867118; shortName=UPF; activityType=HES
+case-78ae30d93945,University of Papua New Guinea,PG,Port Moresby,https://ror.org/05jxf0p38,standard,CORDIS:991044054,CORDIS organisationID=991044054; activityType=HES
+case-f6ae1a659fa2,"Citrus Research Institute, Sargodha",PK,Sargodha,,standard,CORDIS:868787194,CORDIS organisationID=868787194; activityType=REC
+case-1e8be130dc30,Ancon Global LLC,PR,Aguadilla,,standard,CORDIS:868623555,CORDIS organisationID=868623555; shortName=Endovia Labs LLC; activityType=PRC
+case-3c2c4cdd83fb,BIRZEIT UNIVERSITY,PS,BIRZEIT,https://ror.org/0256kw398,short_name,CORDIS:999858347,CORDIS organisationID=999858347; shortName=BIRZEIT UNIVERSITY; activityType=HES
+case-c63584b6c2c4,FRENESIM DAS ONDAS LDA,PT,Amadora,,standard,CORDIS:887741964,CORDIS organisationID=887741964; activityType=PRC
+case-7971900cf5c9,Hamad Bin Khalifa University,QA,Qatar,https://ror.org/03eyq4y97,standard,CORDIS:878858219,CORDIS organisationID=878858219; shortName=Hamad Bin Khalifa University; activityType=HES
+case-e047289ff76d,ASOCIATA PRODUCATORILOR DE CARNE DE PORC DIN ROMANIA,RO,BUCURESTI,,standard,CORDIS:889428794,CORDIS organisationID=889428794; shortName=APCPR; activityType=OTH
+case-97057e4503a5,AFRICAN PHARMACEUTICAL TECHNOLOGY FOUNDATION,RW,KIGALI,,standard,CORDIS:873091763,CORDIS organisationID=873091763; shortName=AFRICAN PHARMACEUTICAL TECHNOLOGY FOUNDATION; activityType=OTH
+case-962fc2f68cc2,King Faisal University,SA,,https://ror.org/00dn43547,standard,CORDIS:951793489,CORDIS organisationID=951793489; activityType=PRC
+case-d4ea79479df2,ALMANAR VOLUNTARY ORGANIZATION,SD,Khartoum,,standard,CORDIS:909827215,CORDIS organisationID=909827215; shortName=ASSOCIATION OF ALMANAR NON-GOVERNMENTALORGANIZATION AMVO; activityType=OTH

@@ -1,0 +1,237 @@
+{
+  "benchmark": {
+    "case_order": "gold-file order",
+    "clock": "time.perf_counter",
+    "latency_scope": "match_one only",
+    "measurements_per_case": 1,
+    "platform": "macOS-26.5-arm64-arm-64bit",
+    "python": "3.12.12"
+  },
+  "bootstrap": {
+    "confidence": 0.95,
+    "iterations": 2000,
+    "method": "stratified non-parametric case bootstrap",
+    "seed": 42
+  },
+  "confidence_intervals": {
+    "answerable_coverage": {
+      "confidence": 0.95,
+      "lower": 0.6316,
+      "upper": 0.9062
+    },
+    "blocking_recall": {
+      "confidence": 0.95,
+      "lower": 0.9062,
+      "upper": 1.0
+    },
+    "coverage": {
+      "confidence": 0.95,
+      "lower": 0.2667,
+      "upper": 0.48
+    },
+    "end_to_end_recall": {
+      "confidence": 0.95,
+      "lower": 0.6316,
+      "upper": 0.9062
+    },
+    "no_match_specificity": {
+      "confidence": 0.95,
+      "lower": 1.0,
+      "upper": 1.0
+    },
+    "selective_precision": {
+      "confidence": 0.95,
+      "lower": 1.0,
+      "upper": 1.0
+    },
+    "top1_accuracy_known": {
+      "confidence": 0.95,
+      "lower": 0.8529,
+      "upper": 1.0
+    }
+  },
+  "configuration": {
+    "active_only": true,
+    "auto_match_threshold": 0.86,
+    "city_boost": 0.03,
+    "city_penalty": 0.02,
+    "compactness_exponent": 0.35,
+    "country_boost": 0.04,
+    "country_penalty": 0.03,
+    "exact_limit": 500,
+    "lexical_gate": 0.8,
+    "min_margin": 0.03,
+    "min_scoring_token_len": 3,
+    "require_multi_token_fuzzy_signal": true,
+    "return_limit": 5,
+    "shortlist_limit": 50,
+    "token_coverage_threshold": 0.84,
+    "use_city": true,
+    "use_country": true,
+    "use_coverage": true,
+    "use_fts": true,
+    "use_margin": true,
+    "use_trigram": true
+  },
+  "error_analysis": {
+    "case_ids": {
+      "accepted_wrong": [],
+      "blocking_miss": [
+        "case-287e86c9d7c0"
+      ],
+      "correct_abstention": [
+        "case-8e434bdfefa1",
+        "case-de1e90daeda6",
+        "case-eccb355dc9c8",
+        "case-4ae2b8a871c3",
+        "case-b4f90e172a0d",
+        "case-57d30c372109",
+        "case-553d5c1f5ac5",
+        "case-51c325fc6ceb",
+        "case-a03570dd789b",
+        "case-faefe55dc328",
+        "case-3ea4c7b4bf79",
+        "case-6417e00055fa",
+        "case-c114ecf96cf4",
+        "case-9e6628678946",
+        "case-4b63670ad48b",
+        "case-a00f1305cb64",
+        "case-394a8d3283c0",
+        "case-e169dc10a410",
+        "case-9fa546614548",
+        "case-ace3af86a4c4",
+        "case-2f93891ec1d6",
+        "case-9657e9e60b22",
+        "case-381235478129",
+        "case-cfe8e364504e",
+        "case-55747c40c3bd",
+        "case-13f2417f8b2c",
+        "case-d0946479e9d6",
+        "case-16ad9d52d05d",
+        "case-cef9abe4eff1",
+        "case-052d8775c202",
+        "case-c03637f019ec",
+        "case-2b136f6b95b0",
+        "case-f066270a39d7",
+        "case-f6ae1a659fa2",
+        "case-1e8be130dc30",
+        "case-c63584b6c2c4",
+        "case-e047289ff76d",
+        "case-97057e4503a5",
+        "case-d4ea79479df2"
+      ],
+      "correct_answer": [
+        "case-20f403e9ab06",
+        "case-9d6e2cbff5f0",
+        "case-c40b15aa2d59",
+        "case-08e426a463db",
+        "case-f136b29a1df3",
+        "case-fefb10505ea8",
+        "case-7c526c2b3ac7",
+        "case-fc5e7d5707dd",
+        "case-d9afbb5a1804",
+        "case-cb5daafce7ba",
+        "case-b283c207a030",
+        "case-4b1165e34236",
+        "case-2b37522a2f41",
+        "case-c2dbaac23501",
+        "case-b4507ac780a2",
+        "case-f8c09d181cae",
+        "case-b7e2b41f1b02",
+        "case-9b1ed326e075",
+        "case-193f053b7a48",
+        "case-85c3028afb78",
+        "case-e8f5692e3aba",
+        "case-488c6f522d7f",
+        "case-57a2f8454bac",
+        "case-fb7b8fae1f22",
+        "case-78ae30d93945",
+        "case-3c2c4cdd83fb",
+        "case-7971900cf5c9",
+        "case-962fc2f68cc2"
+      ],
+      "ranking_error": [
+        "case-7cc14fade058"
+      ],
+      "threshold_or_margin_abstention": [
+        "case-64357354108a",
+        "case-08a516e61678",
+        "case-c8a2a0c20cae",
+        "case-2159e5425e87",
+        "case-b7f2ee105bf5",
+        "case-f8702e5922a4"
+      ]
+    },
+    "counts": {
+      "accepted_wrong": 0,
+      "blocking_miss": 1,
+      "correct_abstention": 39,
+      "correct_answer": 28,
+      "ranking_error": 1,
+      "threshold_or_margin_abstention": 6
+    }
+  },
+  "summary": {
+    "answerable_coverage": 0.7778,
+    "blocking_recall": 0.9722,
+    "cases": 75,
+    "correct_abstentions": 39,
+    "coverage": 0.3733,
+    "end_to_end_recall": 0.7778,
+    "known_match_cases": 36,
+    "median_latency_ms": 45.522,
+    "no_match_specificity": 1.0,
+    "per_stratum": {
+      "acronym": {
+        "answerable_coverage": 0.0,
+        "blocking_recall": 0.0,
+        "cases": 1,
+        "correct_abstentions": 1,
+        "coverage": 0.0,
+        "end_to_end_recall": 0.0,
+        "known_match_cases": 0,
+        "no_match_specificity": 1.0,
+        "selective_precision": 0.0,
+        "top1_accuracy_known": 0.0
+      },
+      "multilingual": {
+        "answerable_coverage": 0.0,
+        "blocking_recall": 0.0,
+        "cases": 3,
+        "correct_abstentions": 3,
+        "coverage": 0.0,
+        "end_to_end_recall": 0.0,
+        "known_match_cases": 0,
+        "no_match_specificity": 1.0,
+        "selective_precision": 0.0,
+        "top1_accuracy_known": 0.0
+      },
+      "short_name": {
+        "answerable_coverage": 0.8,
+        "blocking_recall": 1.0,
+        "cases": 11,
+        "correct_abstentions": 6,
+        "coverage": 0.3636,
+        "end_to_end_recall": 0.8,
+        "known_match_cases": 5,
+        "no_match_specificity": 1.0,
+        "selective_precision": 1.0,
+        "top1_accuracy_known": 1.0
+      },
+      "standard": {
+        "answerable_coverage": 0.7742,
+        "blocking_recall": 0.9677,
+        "cases": 60,
+        "correct_abstentions": 29,
+        "coverage": 0.4,
+        "end_to_end_recall": 0.7742,
+        "known_match_cases": 31,
+        "no_match_specificity": 1.0,
+        "selective_precision": 1.0,
+        "top1_accuracy_known": 0.9355
+      }
+    },
+    "selective_precision": 1.0,
+    "top1_accuracy_known": 0.9444
+  }
+}
